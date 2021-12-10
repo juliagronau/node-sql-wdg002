@@ -1,0 +1,17 @@
+{
+  "name": "sql-wdg002",
+  "version": "1.0.0",
+  "description": "so können wir sql in einer node app verwenden",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "julia",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
